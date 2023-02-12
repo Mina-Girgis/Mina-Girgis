@@ -39,7 +39,7 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+
 
 <div align="center">
 
@@ -51,9 +51,6 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
 
 -----
 <hr>
@@ -62,9 +59,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Mina-Girgis/count.svg)
 
-<hr>
-<br>
-<br>
+
 
 ## <b> Feel free to reach out using the links below..!</b>
 <br>
